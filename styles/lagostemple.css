@@ -1,0 +1,512 @@
+:root {
+    --header-footer-background: #075f07;
+    /* --main-page-background: #D9D4D5; */
+    --text-on-header-footer: #f9f9f9;
+    --text-on-main-page: #161313;
+    --button: #161313;
+    --text-on-button: #efefef;
+}
+
+* {
+    /* margin: 0 auto; */
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "News Cycle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+}
+
+h1,
+header,
+footer {
+    font-family: "Marcellus", serif;
+    font-weight: 400;
+    font-style: normal;
+    /* font-family: "Marcellus", Georgia, "Times New Roman", serif; */
+    line-height: 1.2;
+}
+
+
+.logo-hamburger {
+    display: flex;
+    align-items: center;
+    padding: 5px 0 5px 0;
+    background-color: var(--header-footer-background);
+    color: var(--text-on-header-footer);
+    justify-content: flex-start;
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    margin: 10px 0 10px 10px;
+}
+
+.header-logo img {
+    width: 64px;
+    height: auto;
+    box-sizing: border-box;
+    border: 1px solid gold;
+    display: block;
+}
+
+header span {
+    font-size: 1.0rem;
+
+}
+
+/* HAMBURGER NAVIGATION */
+.hamburger {
+    color: white;
+    cursor: pointer;
+    font-size: x-large;
+    /* padding: 5px 10px 5px 10px; */
+    border: 1px solid gold;
+    background-color: gray;
+    /* width: 44px;
+    height: 44px; */
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: 5px;
+    /* margin-left: 10px; */
+}
+
+.hamburger::before {
+    content: "\2630";
+}
+
+.hamburger.show::before {
+    content: "\00D7";
+    /* font-size: 1.5rem; */
+}
+
+.hamburger:hover {
+    background: #e2d2d2;
+}
+
+/* NAVIGATION */
+.navigation {
+    display: none;
+    background-color: rgb(51, 49, 49);
+    color: var(--text-on-button);
+}
+
+.navigation.show {
+    display: block;
+
+}
+
+.navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+}
+
+.navigation a {
+    display: block;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: var(--text-on-header-footer);
+    text-align: start;
+}
+
+.active {
+    background-color: #5a5858;
+    /* border-left: 3px solid #7f1010 ; */
+}
+
+.navigation a:hover {
+    text-decoration: overline;
+}
+
+
+/* FOOTER */
+footer {
+    padding: .5rem 5px;
+    text-align: center;
+    background-color: var(--header-footer-background);
+    color: var(--text-on-header-footer);
+    min-height: 550px;
+}
+
+.footer div {
+    padding: .5rem;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    column-gap: 5px;
+    margin: 5px;
+}
+
+.social-media a {
+    display: flex;
+    border: solid 1px #dfd7d7;
+    width: 44px;
+    height: 44px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: var(--text-on-button);
+    margin: 10px;
+}
+
+.social-media img {
+    display: block;
+    width: 14px;
+    height: auto;
+    aspect-ratio: 1/1;
+}
+
+.social-media a:hover {
+    background-color: #dbc1bb;
+}
+
+footer a {
+    display: block;
+    padding: 1rem;
+    color: var(--text-on-header-footer);
+    margin-top: 10px;
+    border: 1px solid gold;
+}
+
+
+/* Main*/
+
+h1 {
+    margin-left: 10px;
+}
+
+main {
+    background-color: var(--main-page-background);
+    color: var(--text-on-main-page);
+}
+
+
+/* ..................HOME...................... */
+.about p {
+    margin-bottom: 1em;
+    /* text-indent: 2em; */
+}
+
+.hero {
+    text-align: center;
+    position: relative;
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+    /* position: relative; */
+}
+
+/* 
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 1%;
+    font-size: small;
+    
+} */
+
+.message {
+    display: flex;
+    gap: 10px;
+    font-size: small;
+}
+
+.message button {
+    border: none;
+    background: none;
+}
+
+
+.highlight {
+    position: absolute;
+    top: 5px;
+    left: 1%;
+    font-size: small;
+}
+
+section, .details div {
+    text-align: start;
+    margin: 5px;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-left: 10px;
+}
+
+.sub-tittle {
+    text-align: center;
+    font-size: x-large;
+}
+
+.button a {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    padding: 1rem;
+    color: rgb(73, 9, 9);
+    font-weight: 900;
+    font-size: xx-large;
+    background-color: var(--text-on-button);
+}
+
+.button a:hover {
+    background: #dbc1bb;
+    color: rgb(33, 31, 31);
+}
+
+/* We Offer */
+.offer ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 15px;
+    padding-left: 0;
+}
+
+.offer a {
+    display: block;
+    border: solid 1px #dfd7d7;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--text-on-button);
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    height: 44px;
+    color: var(--text-on-main-page);
+}
+
+.offer li {
+    list-style-type: none;
+    flex: 1 1 100%;
+}
+
+.offer a:hover {
+    background-color: #dbc1bb;
+}
+
+#professional-service-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    gap: 10px;
+}
+
+#professional-service-card p {
+    background-color: #dbc1bb;
+    display: block;
+    border: solid 1px grey;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+#professional-service-card p:hover {
+    background: var(--text-on-button);
+    color: rgb(33, 31, 31);
+}
+
+#detailed-services,
+#project-details {
+    border-radius: 10px;
+}
+
+#detailed-services div,
+#project-details div {
+    display: grid;
+    grid-template-columns: auto 44px;
+    gap: 10px;
+    border-bottom: solid 1px #dbc1bb;
+}
+
+.close-button,
+h3,
+h2 {
+    background: none;
+    border: none;
+    display: block;
+}
+
+/* ................Uyo Weather...... */
+.weather-report {
+    font-size: 85%;
+    background-color: #e2d2d295;
+    margin-top: 5px;
+    min-height: 800px;
+}
+
+.weather-report div {
+    padding: 20px;
+}
+
+.weather-report h2 {
+    text-align: start;
+    margin-top: 10px;
+}
+
+#forecast {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    box-sizing: border-box;
+    padding: 0.1rem;
+    list-style: none;
+    text-align: start;
+    margin: 5px;
+    gap: 5px;
+}
+
+.forecast-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    min-height: 180px;
+    text-align: center;
+}
+
+#current {
+    text-align: center;
+}
+
+#forecast img,
+#weather-icon {
+    width: 32px;
+    height: auto;
+    aspect-ratio: 1;
+    margin: 0 auto;
+}
+
+/* ..................PROJECT PORTFOLIO...................... */
+.portfolio-photo {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-gap: 5px;
+    min-height: 3000px;
+}
+
+.portfolio-photo section {
+    border: 1px solid rgb(0 0 0 / 10%);
+    padding: 0.5rem;
+    background-color: #e3dfdf;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr;
+    position: relative;
+}
+
+.portfolio-photo section div {
+    position: relative;
+}
+
+.portfolio-photo section>* {
+    margin: 0.1rem;
+}
+
+.portfolio-photo img {
+    border: 1px solid #fff;
+    box-shadow: 0 0 1rem #4a3939;
+    width: 100%;
+    height: auto;
+}
+
+.portfolio-photo button {
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+    height: 44px;
+    border-radius: 5px;
+}
+
+.portfolio-photo button:hover {
+    background-color: #e3dfdf;
+}
+
+/* ..............ENQUIRY FORM..................... */
+label {
+    padding-top: 1rem;
+    color: #5e1403;
+    font-size: 0.9rem;
+    margin-left: 10px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="email"],
+input[type="tel"],
+textarea,
+select {
+    background-color: #eee;
+    display: block;
+    border: solid 1px #999;
+    border-radius: 6px;
+    padding: .75rem;
+    color: #555;
+    width: 100%;
+    max-width: 600px;
+    appearance: none;
+}
+
+span {
+    margin-left: 10px;
+}
+
+.contact-form {
+    background: #d9d4d5;
+    margin-left: 10px;
+}
+
+input[type="submit"] {
+    border: none;
+    background-image: linear-gradient(#9c2c13, #6f200e);
+    color: #fff;
+    border-radius: 6px;
+    padding: 0.8rem;
+    width: 96%;
+    max-width: 600px;
+    margin: 1rem 0 2rem;
+}
+
+select:required,
+input:required {
+    border-left: solid 8px red;
+}
+
+select:required:valid,
+input:required:valid {
+    border-left: solid 8px green;
+}
+
+input[type="submit"]:hover {
+    background: yellowgreen;
+}
+
+#note {
+    font-style: italic;
+}
+
+.reg-form div {
+    padding: 5px;
+}
+
+/* ..............THANK YOU FORM..................... */
+.thank-you {
+    margin: 10px;
+}
+
+.thank-you h2 {
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+
+.thank-you div {
+    margin-top: 25px;
+}

@@ -1,0 +1,106 @@
+@media (min-width: 880px) {
+
+    header span {
+        font-size: 1.5rem;
+        /* text-transform: uppercase; */
+    }
+
+    .header {
+        display: grid;
+        grid-template-columns: 1fr auto;
+    }
+
+    .header-logo {
+        grid-column: 1/2;
+    }
+
+    .navigation {
+        grid-column: 2/3;
+        background-color:#075f07;
+    }
+
+
+
+    .hamburger {
+        display: none;
+    }
+
+
+    .navigation {
+        display: flex;
+    }
+
+    .navigation ul {
+        display: flex;
+        column-gap: 20px;
+    }
+
+    .active {
+        background-color: #477944;
+        /* border-left: 3px solid #7f1010 ; */
+    }
+
+    /* FOOTER */
+
+    footer {
+        min-height: 350px;
+    }
+
+    .footer {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    /* ..................HOME...................... */
+    .highlight {
+        font-size: xx-large;
+    }
+
+    .message {
+        font-size: x-large;
+    }
+
+    .details {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .about {
+        grid-column: 1/2;
+        grid-row: 1/2;
+    }
+
+    .button {
+        grid-column: span 2;
+        grid-row: 2/3;
+    }
+
+
+    .offer {
+        grid-column: 2/3;
+        grid-row: 1/2;
+    }
+
+    #professional-service-card {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+
+    /* ................Uyo Weather...... */
+    .weather-report {
+        min-height: 550px;
+    }
+
+    #forecast {
+
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 10px;
+    }
+
+    /* ..................PROJECT PORTFOLIO...................... */
+    .portfolio-photo {
+        min-height: 1100px;
+    }
+
+
+}
