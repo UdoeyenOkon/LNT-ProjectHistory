@@ -114,3 +114,32 @@ async function displayWeather() {
 }
 
 displayWeather();
+
+
+
+//.........................SITE VISIT LOCAL STORAGE......................
+let current = Date.now();
+let previousVisit = window.localStorage.getItem("lastVisit");
+localStorage.setItem("lastVisit", current);
+
+let message;
+if (!previousVisit) {
+    message = "You are Welcome!";
+} else {
+    let daysDifference = (current - previousVisit) / 86400000;
+    if (daysDifference < 1) {
+        message = "Welcome! Back so soon. Awesome!";
+    } else if (daysDifference === 1) {
+        message = "Welcome! You visited 1-day ago.";
+    } else {
+        message = `Welcome! You visited ${daysDifference.toFixed(0)} days ago.`;
+    }
+}
+
+document.getElementById("visit-message").textContent = message;
+document.getElementById("visitor-info").style.display = "flex";
+
+document.getElementById("close-btn").addEventListener("click", () => {
+    document.getElementById("visitor-info").style.display = "none";
+});
+
