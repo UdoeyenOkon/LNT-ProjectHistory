@@ -233,6 +233,7 @@ main {
     font-size: small;
     box-sizing: border-box;
     background-color: #eee7e790;
+    margin-left: 10px;
 }
 
 
@@ -245,7 +246,7 @@ h2 {
 
 /* ................Uyo Weather...... */
 .weather-report {
-    font-size: 85%;
+    /* font-size: 85%; */
     background-color: #e2d2d295;
     margin-top: 5px;
     min-height: 800px;
@@ -289,6 +290,96 @@ h2 {
     aspect-ratio: 1;
     margin: 0 auto;
 }
+
+
+/* ..............WORKERS ALBUM..................... */
+#workers-photocard {
+    margin: 1rem 5px;
+    min-height: 800px;
+    
+}
+
+#workers-photocard section {
+    margin: 0.5rem;
+    border: solid 1px #999;
+    background-color: #eee;
+    border-radius: 8px;
+    overflow: hidden;
+    text-align: center;
+    max-width: 300px;
+    height: auto;
+  
+    display: grid;
+    grid-template-areas:
+        "photo"
+        "title"
+        /* "company"
+        "responsibility" */
+        "button";
+}
+
+#workers-photocard section div {
+    margin: 1rem 10px;
+    grid-area: title;
+    display: grid;
+    border-bottom: red 1px solid;
+}
+
+
+#workers-photocard section figure {
+    grid-area: photo;
+    margin: 0;
+}
+
+#workers-photocard section img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2 / 3;
+    display: block;
+}
+
+/* #workers-photocard section company {
+    margin: 5px 10px;
+    grid-area: company;
+}
+
+#workers-photocard section p {
+    margin: 0.5rem 10px;
+    grid-area: responsibility;
+} */
+
+#workers-photocard section button {
+    grid-area: button;
+    display: block;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: var(--button);
+    color: var(--text-on-button);
+}
+
+#workers-detail {
+    border-radius: 10px;
+    text-align: center;
+}
+
+#workers-detail div {
+    display: grid;
+    grid-template-columns: auto 44px;
+    gap: 10px;
+    border-bottom: solid 1px #dbc1bb;
+   
+}
+
+.close-button{
+    background: none;
+    border: none;
+    display: block;
+}
+
+
+
 
 /* ..................PROJECT PORTFOLIO...................... */
 .portfolio-photo {

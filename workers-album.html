@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Lagos Nigeria Temple Construction History</title>
     <meta name="description"
-        content="This page introduces the the history documented in the Lagos Nigeria Temple Construction Project">
+        content="This page documented data of workers who contributed effort in the Lagos Nigeria Temple Construction Project">
     <meta name="author" content="Udoeyen Aniefiok OKON">
     <meta property="og:title" content="Lagos Nigeria Temple Construction Historical Report ">
     <meta property="og:description"
@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="styles/lagostemple.css">
     <link rel="stylesheet" href="styles/lagostemple-large.css">
     <script src="scripts/lagostemple.js" type="module"></script>
-    <script src="scripts/lagostempleweather.js" type="module"></script>
+    <script src="scripts/temple-workers.mjs" type="module"></script>
 </head>
 
 <body>
@@ -41,9 +41,9 @@
 
         <nav id="nav-bar" class="navigation">
             <ul>
-                <li class="active"><a href="index.html">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="#">Construction Data</a></li>
-                <li><a href="workers-album.html">Workers Album</a></li>
+                <li class="active"><a href="workers-album.html">Workers Album</a></li>
 
             </ul>
         </nav>
@@ -54,40 +54,12 @@
 
     <main>
 
+        <h1>Temple Workers</h1>
 
-        <div class="highlight">
-            <div id="visitor-info" class="overlay">
-                <div class="message">
-                    <p id="visit-message"></p>
-                    <button id="close-btn">❌</button>
-                </div>
-            </div>
-            <p>Learn about the Lagos Nigeria Temple construction including, <br> brothers and
-                sisters who labored to build
-                the Temple</p>
-        </div>
-
-        <h1>Home</h1>
-
-        <div class="hero">
-            <img src="images/lagostemple-hero.webp" alt="Lagos Temple Site">
-
-        </div>
-
-
-        <div class="weather-report">
-            <h2>Weather Report @Lagos Nigeria Temple</h2>
-            <div id="current">
-                <p>Current Temperature: <span id="current-temp"></span></p>
-                <figure>
-                    <img id="weather-icon" src="#" alt="#">
-                    <figcaption></figcaption>
-                </figure>
-            </div>
-
-            <div id="forecast"></div>
-        </div>
-
+        <div id="workers-photocard"></div>
+        
+        <dialog id="workers-detail"></dialog>
+        
     </main>
 
 

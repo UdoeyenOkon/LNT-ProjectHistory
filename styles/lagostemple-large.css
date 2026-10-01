@@ -65,7 +65,7 @@
         grid-template-columns: 1fr 1fr;
     }
 
-    .about {
+    /* .about {
         grid-column: 1/2;
         grid-row: 1/2;
     }
@@ -83,7 +83,7 @@
 
     #professional-service-card {
         grid-template-columns: 1fr 1fr 1fr 1fr;
-    }
+    } */
 
 
     /* ................Uyo Weather...... */
@@ -98,8 +98,17 @@
     }
 
     /* ..................PROJECT PORTFOLIO...................... */
-    .portfolio-photo {
+    /* .portfolio-photo {
         min-height: 1100px;
+    } */
+
+        /* ..............WORKERS ALBUM..................... */
+
+    
+        #workers-photocard {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 1rem;
     }
 
 
