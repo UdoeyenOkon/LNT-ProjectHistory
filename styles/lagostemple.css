@@ -294,7 +294,7 @@ h2 {
 
 /* ..............WORKERS ALBUM..................... */
 #workers-photocard {
-    margin: 1rem 5px;
+    /* margin: 1rem 5px; */
     min-height: 800px;
     
 }
@@ -338,16 +338,6 @@ h2 {
     display: block;
 }
 
-/* #workers-photocard section company {
-    margin: 5px 10px;
-    grid-area: company;
-}
-
-#workers-photocard section p {
-    margin: 0.5rem 10px;
-    grid-area: responsibility;
-} */
-
 #workers-photocard section button {
     grid-area: button;
     display: block;
@@ -378,68 +368,13 @@ h2 {
     display: block;
 }
 
+.sub-tittle {
+    display: flex;
+    flex-direction: column;
 
-
-
-/* ..................PROJECT PORTFOLIO...................... */
-.portfolio-photo {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    grid-gap: 5px;
-    min-height: 3000px;
 }
 
-.portfolio-photo section {
-    border: 1px solid rgb(0 0 0 / 10%);
-    padding: 0.5rem;
-    background-color: #e3dfdf;
-    text-align: center;
-    display: grid;
-    grid-template-columns: 1fr;
-    position: relative;
-}
-
-.portfolio-photo section div {
-    position: relative;
-}
-
-.portfolio-photo section>* {
-    margin: 0.1rem;
-}
-
-.portfolio-photo img {
-    border: 1px solid #fff;
-    box-shadow: 0 0 1rem #4a3939;
-    width: 100%;
-    height: auto;
-}
-
-.portfolio-photo button {
-    position: absolute;
-    bottom: 10%;
-    left: 5%;
-    height: 44px;
-    border-radius: 5px;
-}
-
-.portfolio-photo button:hover {
-    background-color: #e3dfdf;
-}
-
-/* ..............ENQUIRY FORM..................... */
-label {
-    padding-top: 1rem;
-    color: #5e1403;
-    font-size: 0.9rem;
-    margin-left: 10px;
-}
-
-input[type="text"],
-input[type="date"],
-input[type="email"],
-input[type="tel"],
-textarea,
-select {
+input[type="search"]{
     background-color: #eee;
     display: block;
     border: solid 1px #999;
@@ -447,62 +382,9 @@ select {
     padding: .75rem;
     color: #555;
     width: 100%;
-    max-width: 600px;
+    width: 265px;
     appearance: none;
-}
-
-span {
     margin-left: 10px;
 }
 
-.contact-form {
-    background: #d9d4d5;
-    margin-left: 10px;
-}
 
-input[type="submit"] {
-    border: none;
-    background-image: linear-gradient(#9c2c13, #6f200e);
-    color: #fff;
-    border-radius: 6px;
-    padding: 0.8rem;
-    width: 96%;
-    max-width: 600px;
-    margin: 1rem 0 2rem;
-}
-
-select:required,
-input:required {
-    border-left: solid 8px red;
-}
-
-select:required:valid,
-input:required:valid {
-    border-left: solid 8px green;
-}
-
-input[type="submit"]:hover {
-    background: yellowgreen;
-}
-
-#note {
-    font-style: italic;
-}
-
-.reg-form div {
-    padding: 5px;
-}
-
-/* ..............THANK YOU FORM..................... */
-.thank-you {
-    margin: 10px;
-}
-
-.thank-you h2 {
-    border-bottom: 1px solid gray;
-    padding: 10px;
-}
-
-.thank-you div {
-    margin-top: 25px;
-}

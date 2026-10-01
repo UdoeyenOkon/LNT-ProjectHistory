@@ -1,4 +1,4 @@
-@media (min-width: 850px) {
+@media (min-width: 500px) {
 
     header span {
         font-size: 1.5rem;
@@ -16,7 +16,7 @@
 
     .navigation {
         grid-column: 2/3;
-        background-color:#075f07;
+        background-color: #075f07;
     }
 
 
@@ -57,34 +57,13 @@
     }
 
     .message {
-        font-size: xx-large;
+        font-size: x-large;
     }
 
     .details {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
-
-    /* .about {
-        grid-column: 1/2;
-        grid-row: 1/2;
-    }
-
-    .button {
-        grid-column: span 2;
-        grid-row: 2/3;
-    }
-
-
-    .offer {
-        grid-column: 2/3;
-        grid-row: 1/2;
-    }
-
-    #professional-service-card {
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-    } */
-
 
     /* ................Uyo Weather...... */
     .weather-report {
@@ -97,19 +76,21 @@
         gap: 10px;
     }
 
-    /* ..................PROJECT PORTFOLIO...................... */
-    /* .portfolio-photo {
-        min-height: 1100px;
-    } */
-
-        /* ..............WORKERS ALBUM..................... */
-
-    
-        #workers-photocard {
+       /* ..............WORKERS ALBUM..................... */
+    #workers-photocard {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         gap: 1rem;
     }
 
+    .sub-tittle {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    }
+
+    input[type="search"] {
+        margin-left: 0;
+    }
 
 }

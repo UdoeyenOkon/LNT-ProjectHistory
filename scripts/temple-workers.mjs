@@ -1,8 +1,29 @@
 import { workers } from "../data/lnt-workers.mjs";
 
 
-function createWorkersCard(workers) {
-    workers.forEach((worker) => {
+// --------------------------------------------------
+// DISPLAY WORKERS
+// --------------------------------------------------
+
+function createWorkersCard(workersToDisplay) {
+
+    const workersContainer = document.getElementById("workers-photocard");
+
+    // Clear existing cards before displaying new results
+    workersContainer.innerHTML = "";
+
+    // Display message if no workers match the search
+    if (workersToDisplay.length === 0) {
+        workersContainer.innerHTML = `
+            <p class="no-results">
+                No workers found matching your search.
+            </p>
+        `;
+        return;
+    }
+
+    workersToDisplay.forEach((worker) => {
+
         let workersPhotoCard = document.createElement("section");
 
         let title = document.createElement("div");
@@ -10,73 +31,142 @@ function createWorkersCard(workers) {
         let name = document.createElement("h2");
         name.textContent = worker.name;
 
-        let profession = document.createElement("profession");
+        let profession = document.createElement("p");
         profession.textContent = worker.profession;
 
-        let country = document.createElement("country");
+        let country = document.createElement("p");
         country.innerHTML = `<strong>( ${worker.country} )</strong>`;
 
         title.append(name, profession, country);
 
         let button = document.createElement("button");
-        button.textContent = 'Learn More';
+        button.textContent = "Learn More";
 
         let figure = document.createElement("figure");
+
         let image = document.createElement("img");
-        image.src =worker.image;
+        image.src = worker.image;
         image.alt = worker.name;
         image.width = 200;
         image.height = 300;
-        image.loading = 'lazy';
-        image.decoding = 'async';
+        image.loading = "lazy";
+        image.decoding = "async";
+
         figure.appendChild(image);
 
-        // let company = document.createElement("company");
-        // company.innerHTML = `<strong>Company</strong>: ${worker.company}`;
-
-        // let responsibility = document.createElement("p");
-        // responsibility.innerHTML = `<strong>Responsibilities</strong>: ${worker.responsibility}`;
-
         workersPhotoCard.append(title, button, figure);
-        button.addEventListener("click", () => showWorkersDetails(worker));
-        document.getElementById("workers-photocard").appendChild(workersPhotoCard);
+
+        button.addEventListener("click", () => {
+            showWorkersDetails(worker);
+        });
+
+        workersContainer.appendChild(workersPhotoCard);
+    });
+}
+
+
+// --------------------------------------------------
+// SEARCH WORKERS
+// --------------------------------------------------
+
+function searchWorkers(searchTerm) {
+
+    const searchValue = searchTerm.trim().toLowerCase();
+
+    // If the search box is empty, display all workers
+    if (searchValue === "") {
+        createWorkersCard(workers);
+        return;
+    }
+
+    const filteredWorkers = workers.filter((worker) => {
+
+        // Search through all values in each worker object
+        return Object.values(worker).some((value) =>
+            String(value).toLowerCase().includes(searchValue)
+        );
 
     });
-    
+
+    createWorkersCard(filteredWorkers);
 }
-createWorkersCard(workers);
 
 
-// Replace 'unload' with 'pagehide' in your event registration calls
-// Example: Change fromEvent(window, 'unload') to:
-const eventName = 'pagehide';
+// --------------------------------------------------
+// SEARCH EVENT
+// --------------------------------------------------
 
-// If you are calling a generic listener:
-window.addEventListener('pagehide', (event) => {
-    if (event.persisted) {
-        // The page is being cached
-    }
-    // Perform cleanup logic here
+const searchInput = document.querySelector("#worker-search");
+
+searchInput.addEventListener("input", () => {
+    searchWorkers(searchInput.value);
 });
 
 
-function showWorkersDetails(workers) {
+// --------------------------------------------------
+// INITIAL DISPLAY
+// --------------------------------------------------
+
+createWorkersCard(workers);
+
+
+// --------------------------------------------------
+// WORKER DETAILS MODAL
+// --------------------------------------------------
+
+function showWorkersDetails(worker) {
+
     const detailsOfWorkers = document.querySelector("#workers-detail");
+
     detailsOfWorkers.innerHTML = "";
+
     detailsOfWorkers.innerHTML = `
-    <div>
-    <h3>${workers.name}</h3>
-  
-    <button class="close-button">❌</button>
-    </div>
-      <p>${workers.profession}</p>
-    <p>(${workers.country})</p>
-    <p><span class="label"><strong>Company: </strong></span> ${workers.company} </p>
-    <p><span class="label"> <strong>Responsibilities: </strong></span>${workers.responsibility}</p>
+        <div>
+            <h3>${worker.name}</h3>
+
+            <button class="close-button">❌</button>
+        </div>
+
+        <p>${worker.profession}</p>
+
+        <p>(${worker.country})</p>
+
+        <p>
+            <span class="label">
+                <strong>Company:</strong>
+            </span>
+            ${worker.company}
+        </p>
+
+        <p>
+            <span class="label">
+                <strong>Responsibilities:</strong>
+            </span>
+            ${worker.responsibility}
+        </p>
     `;
-    detailsOfWorkers.showModal()
-    let closeModal = document.querySelector(".close-button");
-    closeModal.addEventListener("click", () => detailsOfWorkers.close());
+
+    detailsOfWorkers.showModal();
+
+    const closeModal = document.querySelector(".close-button");
+
+    closeModal.addEventListener("click", () => {
+        detailsOfWorkers.close();
+    });
 }
+
+
+// --------------------------------------------------
+// PAGEHIDE EVENT
+// --------------------------------------------------
+
+window.addEventListener("pagehide", (event) => {
+
+    if (event.persisted) {
+        // The page is being cached
+    }
+
+    // Perform cleanup logic here
+});
 
 
