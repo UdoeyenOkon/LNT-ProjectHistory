@@ -6,7 +6,6 @@ import { workers } from "../data/lnt-workers.mjs";
 // --------------------------------------------------
 
 function createWorkersCard(workersToDisplay) {
-
     const workersContainer = document.getElementById("workers-photocard");
 
     // Clear existing cards before displaying new results
@@ -23,7 +22,6 @@ function createWorkersCard(workersToDisplay) {
     }
 
     workersToDisplay.forEach((worker) => {
-
         let workersPhotoCard = document.createElement("section");
 
         let title = document.createElement("div");
@@ -70,7 +68,6 @@ function createWorkersCard(workersToDisplay) {
 // --------------------------------------------------
 
 function searchWorkers(searchTerm) {
-
     const searchValue = searchTerm.trim().toLowerCase();
 
     // If the search box is empty, display all workers
@@ -80,12 +77,10 @@ function searchWorkers(searchTerm) {
     }
 
     const filteredWorkers = workers.filter((worker) => {
-
         // Search through all values in each worker object
         return Object.values(worker).some((value) =>
             String(value).toLowerCase().includes(searchValue)
         );
-
     });
 
     createWorkersCard(filteredWorkers);
@@ -97,7 +92,6 @@ function searchWorkers(searchTerm) {
 // --------------------------------------------------
 
 const searchInput = document.querySelector("#worker-search");
-
 searchInput.addEventListener("input", () => {
     searchWorkers(searchInput.value);
 });
@@ -115,22 +109,15 @@ createWorkersCard(workers);
 // --------------------------------------------------
 
 function showWorkersDetails(worker) {
-
     const detailsOfWorkers = document.querySelector("#workers-detail");
-
     detailsOfWorkers.innerHTML = "";
-
     detailsOfWorkers.innerHTML = `
         <div>
             <h3>${worker.name}</h3>
-
             <button class="close-button">❌</button>
         </div>
-
         <p>${worker.profession}</p>
-
         <p>(${worker.country})</p>
-
         <p>
             <span class="label">
                 <strong>Company:</strong>

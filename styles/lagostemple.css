@@ -313,13 +313,10 @@ h2 {
     grid-template-areas:
         "photo"
         "title"
-        /* "company"
-        "responsibility" */
         "button";
 }
 
 #workers-photocard section div {
-    margin: 1rem 10px;
     grid-area: title;
     display: grid;
     border-bottom: red 1px solid;
