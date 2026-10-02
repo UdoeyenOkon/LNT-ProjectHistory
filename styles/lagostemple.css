@@ -294,8 +294,8 @@ h2 {
 
 /* ..............WORKERS ALBUM..................... */
 #workers-photocard {
-    /* margin: 1rem 5px; */
-    min-height: 800px;
+    margin: 1rem auto;
+    min-height: 500px;
     
 }
 

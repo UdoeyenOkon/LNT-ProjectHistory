@@ -45,8 +45,8 @@ function createWorkersCard(workersToDisplay) {
         let image = document.createElement("img");
         image.src = worker.image;
         image.alt = worker.name;
-        image.width = 200;
-        image.height = 300;
+        image.width = 150;
+        image.height = 225;
         image.loading = "lazy";
         image.decoding = "async";
 
@@ -118,20 +118,9 @@ function showWorkersDetails(worker) {
         </div>
         <p>${worker.profession}</p>
         <p>(${worker.country})</p>
-        <p>
-            <span class="label">
-                <strong>Company:</strong>
-            </span>
-            ${worker.company}
-        </p>
-
-        <p>
-            <span class="label">
-                <strong>Responsibilities:</strong>
-            </span>
-            ${worker.responsibility}
-        </p>
-    `;
+        <p><span class="label"><strong>Company:</strong></span>${worker.company}</p>
+        <p><span class="label"><strong>Responsibilities:</strong></span>${worker.responsibility}</p>
+        <p>${worker.id}</p> `;
 
     detailsOfWorkers.showModal();
 
