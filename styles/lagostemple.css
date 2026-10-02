@@ -319,7 +319,7 @@ h2 {
 #workers-photocard section div {
     grid-area: title;
     display: grid;
-    border-bottom: red 1px solid;
+    /* border-bottom: red 1px solid; */
 }
 
 
