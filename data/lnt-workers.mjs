@@ -762,7 +762,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: "/images/hope.webp"
+        image: "images/hope.webp"
     },
     {
         id: "JB82",
