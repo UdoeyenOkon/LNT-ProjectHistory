@@ -118,8 +118,8 @@ function showWorkersDetails(worker) {
         </div>
         <p>${worker.profession}</p>
         <p>(${worker.country})</p>
-        <p><span class="label"><strong>Company:</strong></span>${worker.company}</p>
-        <p><span class="label"><strong>Responsibilities:</strong></span>${worker.responsibility}</p>
+        <p><span class="label"><strong>Company: </strong></span>${worker.company}</p>
+        <p><span class="label"><strong>Responsibilities: </strong></span>${worker.responsibility}</p>
         <p>${worker.id}</p> `;
 
     detailsOfWorkers.showModal();

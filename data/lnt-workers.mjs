@@ -307,7 +307,7 @@ export const workers = [
     },
     {
         id: "JB31",
-        name: "Alih Joseph Abakala",
+        name: "Alih Joseph Abalaka",
         profession: "Mason",
         company: "Julius Berger",
         responsibility: "Contractor",
@@ -1645,5 +1645,984 @@ export const workers = [
         responsibility: "Contractor",
         country: "Nigeria",
         image: ""
+    },
+    {
+        id: "JB180",
+        name: "Phina Febian",
+        profession: "Store Keeper",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB181",
+        name: "Chidima Okere",
+        profession: "Store Keeper",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB182",
+        name: "Simon Nosakhare",
+        profession: "Foreman (QA/QC)",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB183",
+        name: "Hope Emmanuel",
+        profession: "Material Controller",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB184",
+        name: "Akinyeye Oluwaseyi",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB185",
+        name: "Sudeep Kumar",
+        profession: "Technical Manager",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB186",
+        name: "Precious",
+        profession: "Safety Manager",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    // Khan City Workers
+    {
+        id: "ET01",
+        name: "Franklin Joseph",
+        profession: "Senior Project Manager",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Indian"
+    },
+    {
+        id: "ET02",
+        name: "Anisii Marinel",
+        profession: "Site Manager",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Romania"
+    },
+    {
+        id: "ET03",
+        name: "Rosu Vasili",
+        profession: "Mechanical Manager",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Romania"
+    },
+    {
+        id: "ET04",
+        name: "Abah Matthew",
+        profession: "Plumbing Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET05",
+        name: "Abara Kennedy",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET06",
+        name: "Adamu Yahaya",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET07",
+        name: "Adedayo Adetayo A.",
+        profession: "Elect. Supervisor",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET08",
+        name: "Adedokun Job",
+        profession: "Electrical Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET09",
+        name: "Adeeyo Simiyu Adekola",
+        profession: "Mechanical Engineer",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET10",
+        name: "Agbo Odoh Benedict",
+        profession: "AC Technician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET11",
+        name: "Agboola Sefiu",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET12",
+        name: "Ajala Lateef",
+        profession: "Sheetmetal Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET13",
+        name: "Akeer Moris Aondofa",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET14",
+        name: "Akinlabi Oluwafemi",
+        profession: "Electrical Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET15",
+        name: "Akinrinlewo Tosin",
+        profession: "Senior Driver",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET16",
+        name: "Alasa John Edimhe",
+        profession: "Electrical Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET17",
+        name: "Alex Patrick",
+        profession: "Plumbing Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET18",
+        name: "Alilu Siaka",
+        profession: "Senior Driver",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET19",
+        name: "Alomaja Michael",
+        profession: "Quantity Surveyor",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET20",
+        name: "Amaechi Deborah Nkechi",
+        profession: "Site Secretary",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET21",
+        name: "Amidu Ganibu",
+        profession: "Plumbing Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET22",
+        name: "Anthony Umani",
+        profession: "Pipe Welder",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET23",
+        name: "Anumia Emmanuel Chibuzor",
+        profession: "IT Student",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET24",
+        name: "Ayelagbe Bolarinwa Ayodele",
+        profession: "Sheetmetalist",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET25",
+        name: "Bolarinwa Taiwo Christopher",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET26",
+        name: "Chibuike Sunday",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET27",
+        name: "Cyril Osikpo",
+        profession: "Welder",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET28",
+        name: "Dams Kyenpia Elisha",
+        profession: "NYSC",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET29",
+        name: "David Temitope",
+        profession: "QA/QC Manager",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET30",
+        name: "Edet Friday",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET31",
+        name: "Edet Johnson",
+        profession: "Sheetmetalist",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET32",
+        name: "Edwin Michael",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET33",
+        name: "Elikwu Chukwuma",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET34",
+        name: "Enwenezi Josiah",
+        profession: "Elect. Engineer (Trainee)",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET35",
+        name: "Eteobong Etim Ibong",
+        profession: "Electrical Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET36",
+        name: "Ezeji Stanley",
+        profession: "Lagger",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET37",
+        name: "Femi Mann",
+        profession: "Sheetmetalist",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET38",
+        name: "Gbande Ushahemba Francis",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET39",
+        name: "Godwin Promise",
+        profession: "Lagger",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET40",
+        name: "Godwin Uwaebuka",
+        profession: "Lagger",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET41",
+        name: "Hamzat Abdullateef",
+        profession: "ELV Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET42",
+        name: "Hassan Ahmed",
+        profession: "ELV Engineer",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET43",
+        name: "Iboro Umoren",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET44",
+        name: "Ibrahim Abiodun",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET45",
+        name: "Iheze Kelechi",
+        profession: "Electrical Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET46",
+        name: "Iliemo Ewomaoghene Samuel",
+        profession: "IT Student",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET47",
+        name: "Iroko Johnson",
+        profession: "ELV Technician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET48",
+        name: "Iwuchukwu Ignatus",
+        profession: "Sheetmetal Supervisor",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET49",
+        name: "Kehinde Adeoti",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET50",
+        name: "Lawal Omotayo",
+        profession: "Site Manager",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET51",
+        name: "Maduka Adam Nnadike",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET52",
+        name: "Maduoma Kenneth",
+        profession: "ELV Technician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET53",
+        name: "Meshark Etori",
+        profession: "Sheetmetalist",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET54",
+        name: "Muritala Tajudeen",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET55",
+        name: "Muyiwa Tobi",
+        profession: "ELV Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET56",
+        name: "Nwachukwu Sunday",
+        profession: "Safety Officer",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET57",
+        name: "Nwankpa Chijindu",
+        profession: "Sheetmetal Supervisor",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET58",
+        name: "Nzechukwu Princess Chiamaka",
+        profession: "Cleaner",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET59",
+        name: "Obodoechi Ifeanyi Noel",
+        profession: "ELV Manager",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET60",
+        name: "Odanaogun Akinwale John",
+        profession: "Stock Coordinator",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET61",
+        name: "Oduola Seye",
+        profession: "Sheetmetalist",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET62",
+        name: "Ogbeh John Ogbobo",
+        profession: "Elect. Supervisor",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET63",
+        name: "Ogungbade Kazeem",
+        profession: "Plumbing Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET64",
+        name: "Okereke Chidioke Abraham",
+        profession: "Sheetmetalist",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET65",
+        name: "Okudo John Afure",
+        profession: "Electrical Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET66",
+        name: "Oladipupo Emmanuel O.",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET67",
+        name: "Olaniyi Adejare",
+        profession: "Plumbing Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET68",
+        name: "Olanrewaju Hammed",
+        profession: "ELV Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET69",
+        name: "Olatunji Faruq Temidayo",
+        profession: "Mech. Engineer (Trainee)",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET70",
+        name: "Olayinka Ogunleye",
+        profession: "Electrical Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET71",
+        name: "Oluwatosin Adebiyi",
+        profession: "Store Keeper",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET72",
+        name: "Omodara Michael",
+        profession: "Driver",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET73",
+        name: "Omoniyi Akintunde A",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET74",
+        name: "Omotor Oghenekaro Jahswill",
+        profession: "Elect. Supervisor",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET75",
+        name: "Omozuafo Clement",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET76",
+        name: "Onazi Sunday",
+        profession: "ELV Technician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET77",
+        name: "Ope Oluseye",
+        profession: "Sheetmetal Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET78",
+        name: "Opefiyijimi Abiodun",
+        profession: "ELV Technician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET79",
+        name: "Orodu Collins",
+        profession: "ELV Technician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET80",
+        name: "Otunyo Matthew",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET81",
+        name: "Owolarafe Fareed Akanbi",
+        profession: "IT Student",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET82",
+        name: "Owolarafe Tajudeen",
+        profession: "Welding Supervisor",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET83",
+        name: "Richard Omofezi",
+        profession: "Plumber",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET84",
+        name: "Simon Ameh Edwin",
+        profession: "Pick Up Driver",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET85",
+        name: "Simon Oche Ameh",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET86",
+        name: "Tunde Adefirantan",
+        profession: "AC Foreman",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET87",
+        name: "Whedahum Monday Oladipupo",
+        profession: "Electrician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "ET88",
+        name: "Yisa Kazeem",
+        profession: "AC Technician",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    // Khan City Workers
+    {
+        id: "KC1",
+        name: "Sholanke Ganiu",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC2",
+        name: "Akeem Raji",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC3",
+        name: "Ben Tsafa",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC4",
+        name: "Destiny Innocent",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC5",
+        name: "Abdul-Salam Qudus",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC6",
+        name: "William Okoi",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC7",
+        name: "Salaudeen Sodiq",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC8",
+        name: "Olawale Omojola",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC9",
+        name: "Ifeanyi Ekwugha",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC10",
+        name: "Whedahun Itunu",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC11",
+        name: "Benard Ekeh",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC12",
+        name: "Alatise David",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC13",
+        name: "ThankGod Anya",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC14",
+        name: "Amindu Akinsola",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC15",
+        name: "Adelekun Adewale",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC16",
+        name: "Oguntade Gbenga",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC17",
+        name: "Olayemi Moses",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC18",
+        name: "Ogeowu Ugochukwu",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC19",
+        name: "Samuel Oyekan",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC20",
+        name: "Tolani Raheed",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC21",
+        name: "Saheed Oseni",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+
+    // Mauphih Services Ltd Workers
+    {
+        id: "MS1",
+        name: "Maurice Bassey",
+        profession: "Ironbender",
+        company: "Mauphih Services Ltd",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "MS2",
+        name: "Jerome Daniel",
+        profession: "Ironbender",
+        company: "Mauphih Services Ltd",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "MS3",
+        name: "Daniel Ugbe Ugde",
+        profession: "Ironbender",
+        company: "Mauphih Services Ltd",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "MS4",
+        name: "Anietie Etim",
+        profession: "Ironbender",
+        company: "Mauphih Services Ltd",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "MS5",
+        name: "Godets Uffot",
+        profession: "Ironbender",
+        company: "Mauphih Services Ltd",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
     }
 ];
