@@ -42,7 +42,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb1.webp"
     },
     {
         id: "JB2",
@@ -87,7 +87,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb6.webp"
     },
     {
         id: "JB7",
@@ -141,7 +141,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb12.webp"
     },
     {
         id: "JB13",
@@ -159,7 +159,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb14.webp"
     },
     {
         id: "JB15",
@@ -177,7 +177,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb16.webp"
     },
     {
         id: "JB17",
@@ -204,7 +204,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb19.webp"
     },
     {
         id: "JB20",
@@ -249,7 +249,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb24.webp"
     },
     {
         id: "JB25",
@@ -258,7 +258,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb25.webp"
     },
     {
         id: "JB26",
@@ -276,7 +276,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb27.webp"
     },
     {
         id: "JB28",
@@ -312,7 +312,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb31.webp"
     },
     {
         id: "JB32",
@@ -330,7 +330,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb33.webp"
     },
     {
         id: "JB34",
@@ -339,7 +339,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb34.webp"
     },
     {
         id: "JB35",
@@ -357,7 +357,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb36.webp"
     },
     {
         id: "JB37",
@@ -366,7 +366,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb37.webp"
     },
     {
         id: "JB38",
@@ -384,7 +384,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb39.webp"
     },
     {
         id: "JB40",
@@ -420,7 +420,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb43.webp"
     },
     {
         id: "JB44",
@@ -438,7 +438,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb45.webp"
     },
     {
         id: "JB46",
@@ -447,7 +447,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb46.webp"
     },
     {
         id: "JB47",
@@ -492,7 +492,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb51.webp"
     },
     {
         id: "JB52",
@@ -501,7 +501,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb52.webp"
     },
     {
         id: "JB53",
@@ -537,7 +537,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb56.webp"
     },
     {
         id: "JB57",
@@ -546,7 +546,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb57.webp"
     },
     {
         id: "JB58",
@@ -564,7 +564,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb59.webp"
     },
     {
         id: "JB60",
@@ -573,7 +573,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb60.webp"
     },
     {
         id: "JB61",
@@ -591,7 +591,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb62.webp"
     },
     {
         id: "JB63",
@@ -627,7 +627,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb66.webp"
     },
     {
         id: "JB67",
@@ -645,7 +645,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb68.webp"
     },
     {
         id: "JB69",
@@ -681,7 +681,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb72.webp"
     },
     {
         id: "JB73",
@@ -717,7 +717,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb76.webp"
     },
     {
         id: "JB77",
@@ -789,7 +789,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb84.webp"
     },
     {
         id: "JB85",
@@ -798,7 +798,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb85.webp"
     },
     {
         id: "JB86",
@@ -816,7 +816,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb87.webp"
     },
     {
         id: "JB88",
@@ -843,7 +843,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Congo",
-        image: ""
+        image: "images/jb90.webp"
     },
     {
         id: "JB91",
@@ -852,7 +852,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb91.webp"
     },
     {
         id: "JB92",
@@ -861,7 +861,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb92.webp"
     },
     {
         id: "JB93",
@@ -870,7 +870,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb93.webp"
     },
     {
         id: "JB94",
@@ -879,7 +879,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb94.webp"
     },
     {
         id: "JB95",
@@ -897,7 +897,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Phillipine",
-        image: ""
+        image: "images/jb96.webp"
     },
     {
         id: "JB97",
@@ -906,7 +906,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Thialand",
-        image: ""
+        image: "images/jb97.webp"
     },
     {
         id: "JB98",
@@ -942,7 +942,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb101.webp"
     },
     {
         id: "JB102",
@@ -951,7 +951,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb102.webp"
     },
     {
         id: "JB103",
@@ -1005,7 +1005,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb108.webp"
     },
     {
         id: "JB109",
@@ -1014,7 +1014,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb109.webp"
     },
     {
         id: "JB110",
@@ -1050,7 +1050,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb113.webp"
     },
     {
         id: "JB114",
@@ -1059,7 +1059,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb114.webp"
     },
     {
         id: "JB115",
@@ -1077,7 +1077,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb116.webp"
     },
     {
         id: "JB117",
@@ -1086,7 +1086,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb117.webp"
     },
     {
         id: "JB118",
@@ -1122,7 +1122,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb121.webp"
     },
     {
         id: "JB122",
@@ -1158,7 +1158,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb125.webp"
     },
     {
         id: "JB126",
@@ -1176,7 +1176,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb127.webp"
     },
     {
         id: "JB128",
@@ -1248,7 +1248,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb135.webp"
     },
     {
         id: "JB136",
@@ -1284,7 +1284,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb139.webp"
     },
     {
         id: "JB140",
@@ -1293,7 +1293,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb140.webp"
     },
     {
         id: "JB141",
@@ -1302,7 +1302,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb141.webp"
     },
     {
         id: "JB142",
@@ -1329,7 +1329,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb144.webp"
     },
     {
         id: "JB145",
@@ -1356,7 +1356,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb147.webp"
     },
     {
         id: "JB148",
@@ -1383,7 +1383,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb150.webp"
     },
     {
         id: "JB151",
@@ -1401,7 +1401,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb152.webp"
     },
     {
         id: "JB153",
@@ -1518,7 +1518,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb165.webp"
     },
     {
         id: "JB166",
@@ -1527,7 +1527,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb166.webp"
     },
     {
         id: "JB167",
@@ -1536,7 +1536,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb167.webp"
     },
     {
         id: "JB168",
@@ -1563,7 +1563,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb170.webp"
     },
     {
         id: "JB171",
@@ -1590,7 +1590,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb173.webp"
     },
     {
         id: "JB174",
@@ -1608,7 +1608,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb175.webp"
     },
     {
         id: "JB176",
@@ -1617,7 +1617,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb176.webp"
     },
     {
         id: "JB177",
@@ -1671,7 +1671,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb182.webp"
     },
     {
         id: "JB183",
@@ -1680,7 +1680,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb183.webp"
     },
     {
         id: "JB184",
@@ -1689,7 +1689,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb184.webp"
     },
     {
         id: "JB185",
@@ -1698,7 +1698,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb185.webp"
     },
     {
         id: "JB186",
@@ -1707,9 +1707,9 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb186.webp"
     },
-    // Khan City Workers
+    // ETCO's Workers
     {
         id: "ET01",
         name: "Franklin Joseph",
@@ -2421,7 +2421,8 @@ export const workers = [
         profession: "Scaffolder",
         company: "Khan City",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/kc1.webp"
     },
     {
         id: "KC2",
@@ -2429,7 +2430,8 @@ export const workers = [
         profession: "Scaffolder",
         company: "Khan City",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: ""
     },
     {
         id: "KC3",
@@ -2445,7 +2447,8 @@ export const workers = [
         profession: "Scaffolder",
         company: "Khan City",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/kc4.webp"
     },
     {
         id: "KC5",
@@ -2453,7 +2456,8 @@ export const workers = [
         profession: "Scaffolder",
         company: "Khan City",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/kc5.webp"
     },
     {
         id: "KC6",
@@ -2509,7 +2513,8 @@ export const workers = [
         profession: "Scaffolder",
         company: "Khan City",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/kc12.webp"
     },
     {
         id: "KC13",
@@ -2517,7 +2522,8 @@ export const workers = [
         profession: "Scaffolder",
         company: "Khan City",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/kc13.webp"
     },
     {
         id: "KC14",
@@ -2591,7 +2597,8 @@ export const workers = [
         profession: "Ironbender",
         company: "Mauphih Services Ltd",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/ms1.webp"
     },
     {
         id: "MS2",
@@ -2599,7 +2606,8 @@ export const workers = [
         profession: "Ironbender",
         company: "Mauphih Services Ltd",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/ms2.webp"
     },
     {
         id: "MS3",
@@ -2607,7 +2615,8 @@ export const workers = [
         profession: "Ironbender",
         company: "Mauphih Services Ltd",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/ms3.webp"
     },
     {
         id: "MS4",
@@ -2615,7 +2624,8 @@ export const workers = [
         profession: "Ironbender",
         company: "Mauphih Services Ltd",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/ms4.webp"
     },
     {
         id: "MS5",
@@ -2623,6 +2633,7 @@ export const workers = [
         profession: "Ironbender",
         company: "Mauphih Services Ltd",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/ms5.webp"
     }
 ];
