@@ -735,7 +735,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Germany",
-        image: ""
+        image: "images/jb78.webp"
     },
     {
         id: "JB79",
@@ -915,7 +915,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb98.webp"
     },
     {
         id: "JB99",
@@ -1697,7 +1697,7 @@ export const workers = [
         profession: "Technical Manager",
         company: "Julius Berger",
         responsibility: "Contractor",
-        country: "Nigeria",
+        country: "India",
         image: "images/jb185.webp"
     },
     {
