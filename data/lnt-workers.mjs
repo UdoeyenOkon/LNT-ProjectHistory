@@ -60,7 +60,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb3.webp"
     },
     {
         id: "JB4",
@@ -78,7 +78,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb5.webp"
     },
     {
         id: "JB6",
@@ -105,7 +105,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb8.webp"
     },
     {
         id: "JB9",
@@ -132,7 +132,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb11.webp"
     },
     {
         id: "JB12",
@@ -222,7 +222,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb21.webp"
     },
     {
         id: "JB22",
@@ -393,7 +393,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb40.webp"
     },
     {
         id: "JB41",
@@ -519,7 +519,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb54.webp"
     },
     {
         id: "JB55",
@@ -663,7 +663,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb70.webp"
     },
     {
         id: "JB71",
@@ -726,7 +726,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb77.webp"
     },
     {
         id: "JB78",
@@ -753,7 +753,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb80.webp"
     },
     {
         id: "JB81",
@@ -924,7 +924,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb99.webp"
     },
     {
         id: "JB100",
@@ -933,7 +933,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb100.webp"
     },
     {
         id: "JB101",
@@ -996,7 +996,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb107.webp"
     },
     {
         id: "JB108",
@@ -1023,7 +1023,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb110.webp"
     },
     {
         id: "JB111",
@@ -1068,7 +1068,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb115.webp"
     },
     {
         id: "JB116",
@@ -1095,7 +1095,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb118.webp"
     },
     {
         id: "JB119",
@@ -1239,7 +1239,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb134.webp"
     },
     {
         id: "JB135",
@@ -1365,7 +1365,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb148.webp"
     },
     {
         id: "JB149",
@@ -1482,7 +1482,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb161.webp"
     },
     {
         id: "JB162",
@@ -1635,7 +1635,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb178.webp"
     },
     {
         id: "JB179",
@@ -1644,7 +1644,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb179.webp"
     },
     {
         id: "JB180",
@@ -1709,6 +1709,42 @@ export const workers = [
         country: "Nigeria",
         image: "images/jb186.webp"
     },
+    {
+        id: "JB187",
+        name: "Adegbite Ayodele Emmanuel",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: "images/jb187.webp"
+    },
+    {
+        id: "JB188",
+        name: "Chinedum Bright",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: "images/jb188.webp"
+    },
+    {
+        id: "JB189",
+        name: "Abiodun Olabisi",
+        profession: "Carpenter",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: "images/jb189.webp"
+    },
+    {
+        id: "JB190",
+        name: "Alfred Edeh",
+        profession: "Carpenter",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
     // ETCO's Workers
     {
         id: "ET01",
@@ -1716,7 +1752,8 @@ export const workers = [
         profession: "Senior Project Manager",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Indian"
+        country: "Indian",
+        image: "images/et1.webp"
     },
     {
         id: "ET02",
@@ -1732,7 +1769,8 @@ export const workers = [
         profession: "Mechanical Manager",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Romania"
+        country: "Romania",
+        image: "images/et3.webp"
     },
     {
         id: "ET04",
@@ -1748,7 +1786,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et5.webp"
     },
     {
         id: "ET06",
@@ -1756,7 +1795,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et6.webp"
     },
     {
         id: "ET07",
@@ -1764,7 +1804,8 @@ export const workers = [
         profession: "Elect. Supervisor",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et7.webp"
     },
     {
         id: "ET08",
@@ -1772,7 +1813,8 @@ export const workers = [
         profession: "Electrical Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et8.webp"
     },
     {
         id: "ET09",
@@ -1780,7 +1822,8 @@ export const workers = [
         profession: "Mechanical Engineer",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et9.webp"
     },
     {
         id: "ET10",
@@ -1788,7 +1831,8 @@ export const workers = [
         profession: "AC Technician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et10.webp"
     },
     {
         id: "ET11",
@@ -1796,7 +1840,8 @@ export const workers = [
         profession: "Plumber",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et11.webp"
     },
     {
         id: "ET12",
@@ -1804,7 +1849,8 @@ export const workers = [
         profession: "Sheetmetal Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et12.webp"
     },
     {
         id: "ET13",
@@ -1812,7 +1858,8 @@ export const workers = [
         profession: "Plumber",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et13.webp"
     },
     {
         id: "ET14",
@@ -1820,7 +1867,8 @@ export const workers = [
         profession: "Electrical Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et14.webp"
     },
     {
         id: "ET15",
@@ -1828,7 +1876,8 @@ export const workers = [
         profession: "Senior Driver",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et15.webp"
     },
     {
         id: "ET16",
@@ -1836,7 +1885,8 @@ export const workers = [
         profession: "Electrical Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et16.webp"
     },
     {
         id: "ET17",
@@ -1844,7 +1894,8 @@ export const workers = [
         profession: "Plumbing Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et17.webp"
     },
     {
         id: "ET18",
@@ -1860,7 +1911,8 @@ export const workers = [
         profession: "Quantity Surveyor",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et19.webp"
     },
     {
         id: "ET20",
@@ -1900,7 +1952,8 @@ export const workers = [
         profession: "Sheetmetalist",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et24.webp"
     },
     {
         id: "ET25",
@@ -1924,7 +1977,8 @@ export const workers = [
         profession: "Welder",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et27.webp"
     },
     {
         id: "ET28",
@@ -1932,7 +1986,8 @@ export const workers = [
         profession: "NYSC",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et28.webp"
     },
     {
         id: "ET29",
@@ -1940,7 +1995,8 @@ export const workers = [
         profession: "QA/QC Manager",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et29.webp"
     },
     {
         id: "ET30",
@@ -1948,7 +2004,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et30.webp"
     },
     {
         id: "ET31",
@@ -1956,7 +2013,8 @@ export const workers = [
         profession: "Sheetmetalist",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et31.webp"
     },
     {
         id: "ET32",
@@ -1964,7 +2022,8 @@ export const workers = [
         profession: "Plumber",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et32.webp"
     },
     {
         id: "ET33",
@@ -1972,7 +2031,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et33.webp"
     },
     {
         id: "ET34",
@@ -1980,7 +2040,8 @@ export const workers = [
         profession: "Elect. Engineer (Trainee)",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et34.webp"
     },
     {
         id: "ET35",
@@ -1988,7 +2049,8 @@ export const workers = [
         profession: "Electrical Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et35.webp"
     },
     {
         id: "ET36",
@@ -1996,7 +2058,8 @@ export const workers = [
         profession: "Lagger",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et36.webp"
     },
     {
         id: "ET37",
@@ -2004,7 +2067,8 @@ export const workers = [
         profession: "Sheetmetalist",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et37.webp"
     },
     {
         id: "ET38",
@@ -2012,7 +2076,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et38.webp"
     },
     {
         id: "ET39",
@@ -2020,7 +2085,8 @@ export const workers = [
         profession: "Lagger",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et39.webp"
     },
     {
         id: "ET40",
@@ -2028,7 +2094,8 @@ export const workers = [
         profession: "Lagger",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et40.webp"
     },
     {
         id: "ET41",
@@ -2036,7 +2103,8 @@ export const workers = [
         profession: "ELV Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et41.webp"
     },
     {
         id: "ET42",
@@ -2052,7 +2120,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et43.webp"
     },
     {
         id: "ET44",
@@ -2068,7 +2137,8 @@ export const workers = [
         profession: "Electrical Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et45.webp"
     },
     {
         id: "ET46",
@@ -2084,7 +2154,8 @@ export const workers = [
         profession: "ELV Technician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et47.webp"
     },
     {
         id: "ET48",
@@ -2092,7 +2163,8 @@ export const workers = [
         profession: "Sheetmetal Supervisor",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et48.webp"
     },
     {
         id: "ET49",
@@ -2100,7 +2172,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et49.webp"
     },
     {
         id: "ET50",
@@ -2108,7 +2181,8 @@ export const workers = [
         profession: "Site Manager",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et50.webp"
     },
     {
         id: "ET51",
@@ -2116,7 +2190,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et51.webp"
     },
     {
         id: "ET52",
@@ -2124,7 +2199,8 @@ export const workers = [
         profession: "ELV Technician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et52.webp"
     },
     {
         id: "ET53",
@@ -2132,7 +2208,8 @@ export const workers = [
         profession: "Sheetmetalist",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et53.webp"
     },
     {
         id: "ET54",
@@ -2140,7 +2217,8 @@ export const workers = [
         profession: "Plumber",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et54.webp"
     },
     {
         id: "ET55",
@@ -2148,7 +2226,8 @@ export const workers = [
         profession: "ELV Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et55.webp"
     },
     {
         id: "ET56",
@@ -2156,7 +2235,8 @@ export const workers = [
         profession: "Safety Officer",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et56.webp"
     },
     {
         id: "ET57",
@@ -2164,7 +2244,8 @@ export const workers = [
         profession: "Sheetmetal Supervisor",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et57.webp"
     },
     {
         id: "ET58",
@@ -2172,7 +2253,8 @@ export const workers = [
         profession: "Cleaner",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et58.webp"
     },
     {
         id: "ET59",
@@ -2180,7 +2262,8 @@ export const workers = [
         profession: "ELV Manager",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et59.webp"
     },
     {
         id: "ET60",
@@ -2188,7 +2271,8 @@ export const workers = [
         profession: "Stock Coordinator",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et60.webp"
     },
     {
         id: "ET61",
@@ -2196,7 +2280,8 @@ export const workers = [
         profession: "Sheetmetalist",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et61.webp"
     },
     {
         id: "ET62",
@@ -2204,7 +2289,8 @@ export const workers = [
         profession: "Elect. Supervisor",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et62.webp"
     },
     {
         id: "ET63",
@@ -2212,7 +2298,8 @@ export const workers = [
         profession: "Plumbing Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et63.webp"
     },
     {
         id: "ET64",
@@ -2220,7 +2307,8 @@ export const workers = [
         profession: "Sheetmetalist",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et64.webp"
     },
     {
         id: "ET65",
@@ -2228,7 +2316,8 @@ export const workers = [
         profession: "Electrical Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et65.webp"
     },
     {
         id: "ET66",
@@ -2236,7 +2325,8 @@ export const workers = [
         profession: "Plumber",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et66.webp"
     },
     {
         id: "ET67",
@@ -2244,7 +2334,8 @@ export const workers = [
         profession: "Plumbing Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et67.webp"
     },
     {
         id: "ET68",
@@ -2252,7 +2343,8 @@ export const workers = [
         profession: "ELV Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et68.webp"
     },
     {
         id: "ET69",
@@ -2260,7 +2352,8 @@ export const workers = [
         profession: "Mech. Engineer (Trainee)",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et69.webp"
     },
     {
         id: "ET70",
@@ -2268,7 +2361,8 @@ export const workers = [
         profession: "Electrical Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et70.webp"
     },
     {
         id: "ET71",
@@ -2276,7 +2370,8 @@ export const workers = [
         profession: "Store Keeper",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et71.webp"
     },
     {
         id: "ET72",
@@ -2284,7 +2379,8 @@ export const workers = [
         profession: "Driver",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et72.webp"
     },
     {
         id: "ET73",
@@ -2292,7 +2388,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et73.webp"
     },
     {
         id: "ET74",
@@ -2300,7 +2397,8 @@ export const workers = [
         profession: "Elect. Supervisor",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et74.webp"
     },
     {
         id: "ET75",
@@ -2308,7 +2406,8 @@ export const workers = [
         profession: "Plumber",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et75.webp"
     },
     {
         id: "ET76",
@@ -2316,7 +2415,8 @@ export const workers = [
         profession: "ELV Technician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et76.webp"
     },
     {
         id: "ET77",
@@ -2324,7 +2424,8 @@ export const workers = [
         profession: "Sheetmetal Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et77.webp"
     },
     {
         id: "ET78",
@@ -2332,7 +2433,8 @@ export const workers = [
         profession: "ELV Technician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et78.webp"
     },
     {
         id: "ET79",
@@ -2340,7 +2442,8 @@ export const workers = [
         profession: "ELV Technician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et79.webp"
     },
     {
         id: "ET80",
@@ -2348,7 +2451,8 @@ export const workers = [
         profession: "Electrician",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et80.webp"
     },
     {
         id: "ET81",
@@ -2356,7 +2460,8 @@ export const workers = [
         profession: "IT Student",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et81.webp"
     },
     {
         id: "ET82",
@@ -2364,7 +2469,8 @@ export const workers = [
         profession: "Welding Supervisor",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et82.webp"
     },
     {
         id: "ET83",
@@ -2380,7 +2486,8 @@ export const workers = [
         profession: "Pick Up Driver",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et84.webp"
     },
     {
         id: "ET85",
@@ -2396,7 +2503,8 @@ export const workers = [
         profession: "AC Foreman",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et86.webp"
     },
     {
         id: "ET87",
@@ -2412,7 +2520,52 @@ export const workers = [
         profession: "AC Technician",
         company: "ETCO",
         responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: "images/et88.webp"
+    },
+    {
+        id: "ET89",
+        name: "Debora Adejuwon Adejumola ",
+        profession: "Secretary",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: "images/et89.webp"
+    },
+    {
+        id: "ET90",
+        name: "Anthony Umani",
+        profession: "Welder",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: "images/et90.webp"
+    },
+    {
+        id: "ET91",
+        name: "Omomejoh Othuke Martins",
+        profession: "Store Supervisor",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: "images/et91.webp"
+    },
+    {
+        id: "ET92",
+        name: "Sarah Kingsley",
+        profession: "Electrical Engineer",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
         country: "Nigeria"
+    },
+    {
+        id: "ET93",
+        name: "Iyalomhe Michael",
+        profession: "Plumbing Supervisor",
+        company: "ETCO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: "images/et93.webp"
     },
     // Khan City Workers
     {
@@ -2539,7 +2692,8 @@ export const workers = [
         profession: "Scaffolder",
         company: "Khan City",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/kc15.webp"
     },
     {
         id: "KC16",
@@ -2635,5 +2789,60 @@ export const workers = [
         responsibility: "Sub-constractors",
         country: "Nigeria",
         image: "images/ms5.webp"
-    }
-];
+    },
+    // Pemyglo Workers
+    {
+        id: "PEM1",
+        name: "Bassey Sunday Thompson",
+        profession: "Water-proofing Installer",
+        company: "PEMYGLO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: "images/pem1.webp"
+    },
+    {
+        id: "PEM2",
+        name: "Mark Udofia",
+        profession: "Water-proofing Installer",
+        company: "PEMYGLO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: "images/pem2.webp"
+    },
+    {
+        id: "PEM3",
+        name: "Alexander Emem",
+        profession: "Water-proofing Installer",
+        company: "PEMYGLO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "PEM4",
+        name: "Basil Ogah",
+        profession: "Water-proofing Installer",
+        company: "PEMYGLO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "PEM5",
+        name: "Shuabu Oduka",
+        profession: "Water-proofing Installer",
+        company: "PEMYGLO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "PEM6",
+        name: "Wisdom Dickson",
+        profession: "Water-proofing Installer",
+        company: "PEMYGLO",
+        responsibility: "Sub-constractors",
+        country: "Nigeria",
+        image: ""
+    },
+];  
