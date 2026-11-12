@@ -1743,7 +1743,7 @@ export const workers = [
         company: "Julius Berger",
         responsibility: "Contractor",
         country: "Nigeria",
-        image: ""
+        image: "images/jb190.webp"
     },
     // ETCO's Workers
     {
@@ -1920,7 +1920,8 @@ export const workers = [
         profession: "Site Secretary",
         company: "ETCO",
         responsibility: "Sub-constractors",
-        country: "Nigeria"
+        country: "Nigeria",
+        image: "images/et20.webp"
     },
     {
         id: "ET21",
