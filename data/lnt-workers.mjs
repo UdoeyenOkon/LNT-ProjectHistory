@@ -2210,7 +2210,7 @@ export const workers = [
     {
         id: "ET28",
         name: "Dams Kyenpia Elisha",
-        profession: "NYSC",
+        profession: "Corps Member",
         company: "ETCO",
         responsibility: "Sub-constractors",
         country: "Nigeria",
