@@ -1745,6 +1745,232 @@ export const workers = [
         country: "Nigeria",
         image: "images/jb190.webp"
     },
+    {
+        id: "JB191",
+        name: "Philip Ujano",
+        profession: "Site Supervisor",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB192",
+        name: "Adewoye Kayode Jeseph",
+        profession: "Driver",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB193",
+        name: "Ezemson Eric Oscar",
+        profession: "Driver",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB194",
+        name: "Adebayo Adekemi Aminat",
+        profession: "Administrative Officer",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB195",
+        name: "Onipede Adebayo Victor",
+        profession: "Assistant Admin. Officer",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB196",
+        name: "Jumalo Danjuma Yerima",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB197",
+        name: "Jamiu Laisu",
+        profession: "Clerk",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB198",
+        name: "Gabriel Okacha",
+        profession: "Tower Crane Operator",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB199",
+        name: "Raheem Mummeen",
+        profession: "Quantity Surveyor",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB200",
+        name: "Elijah Maurice",
+        profession: "Headman (Mason)",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB201",
+        name: "Marcel chinagorom Uzoigwe",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB202",
+        name: "Emmanuel Eje Yakubu",
+        profession: "",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB203",
+        name: "Anyiam George",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB204",
+        name: "Selzing Nimark",
+        profession: "Carpenter",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB205",
+        name: "Victor Samuel",
+        profession: "",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB206",
+        name: "Daniel Daylop Danboyi",
+        profession: "Senior Foreman (Mason)",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB207",
+        name: "Femi Enoch Balogun",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB208",
+        name: "Demion Chdi Abiazem",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB209",
+        name: "Paulinus Arinze Nwafor",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB210",
+        name: "Omokhide Adelekun",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB211",
+        name: "Emmanuel Oshiobughie Kadiri",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB212",
+        name: "Omafu Gabriel",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB213",
+        name: "Linus Simon",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB214",
+        name: "Emmanuel Joseph",
+        profession: "Mason",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    {
+        id: "JB215",
+        name: "Akomaye Emmanuel Apor",
+        profession: "",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+    
     // ETCO's Workers
     {
         id: "ET01",
