@@ -1970,7 +1970,7 @@ export const workers = [
         country: "Nigeria",
         image: ""
     },
-    
+
     // ETCO's Workers
     {
         id: "ET01",
