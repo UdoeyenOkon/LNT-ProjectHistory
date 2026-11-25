@@ -2970,6 +2970,247 @@ export const workers = [
         responsibility: "Sub-constractors",
         country: "Nigeria"
     },
+    {
+        id: "KC22",
+        name: "Emmanuel Thompson",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC23",
+        name: "Gbolahan Agoro",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC24",
+        name: "Joel Boluwatife",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC25",
+        name: "Salauden Sadiq",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC25",
+        name: "Eguono Ugochukwu",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC26",
+        name: "Ibrahim Nasir",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC27",
+        name: "Henry Romaric",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC28",
+        name: "Friday David",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC29",
+        name: "Joseph Olateju",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC30",
+        name: "Lucky Tuchi",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC31",
+        name: "Ede John",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC32",
+        name: "Kazeem Abass",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC33",
+        name: "Keneth Idris",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC34",
+        name: "Sylvanus Ifiok",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC35",
+        name: "Babatunde Bamitale Hodonu",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "K36C",
+        name: "Sonnen Peter",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC37",
+        name: "Alonge Ekundayo",
+        profession: "Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC38",
+        name: "Ann Aondokula",
+        profession: "Helper Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC39",
+        name: "Rahaman Fatomide",
+        profession: "Helper Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC40",
+        name: "Gbenga Olami",
+        profession: "Helper Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC41",
+        name: "Emeka Prince",
+        profession: "Helper Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC42",
+        name: "Emeka collins",
+        profession: "Helper Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC43",
+        name: "Olamilekan Adeola",
+        profession: "Helper Mason",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC44",
+        name: "Sholanke Ganiyu",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC45",
+        name: "Williams Okoi",
+        profession: "Scaffolder",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC46",
+        name: "Samuel Adebayo",
+        profession: "Plumber",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC47",
+        name: "Godstime Ufot",
+        profession: "Iron fitter",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC48",
+        name: "Victor Okon",
+        profession: "Iron fitter",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC49",
+        name: "Joseph Gbakoru",
+        profession: "Iron fitter",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+    {
+        id: "KC50",
+        name: "Isaac Tony",
+        profession: "Iron fitter",
+        company: "Khan City",
+        responsibility: "Sub-constractors",
+        country: "Nigeria"
+    },
+
 
     // Mauphih Services Ltd Workers
     {
