@@ -1970,6 +1970,16 @@ export const workers = [
         country: "Nigeria",
         image: ""
     },
+    {
+        id: "JB216",
+        name: "Garba Ahmed",
+        profession: "Corps Member",
+        company: "Julius Berger",
+        responsibility: "Contractor",
+        country: "Nigeria",
+        image: ""
+    },
+
 
     // ETCO's Workers
     {
